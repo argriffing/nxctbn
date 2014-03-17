@@ -4,8 +4,6 @@ Helper functions related to transition matrices and uniformization.
 """
 from __future__ import division, print_function, absolute_import
 
-#TODO move this to a more appropriate python package
-
 import networkx as nx
 
 
