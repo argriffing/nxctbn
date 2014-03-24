@@ -1,5 +1,7 @@
 Simulate branching trajectories on a continuous time Bayesian network (CTBN).
 
+UNDER CONSTRUCTION
+
 Required dependencies:
  * [Python 2.7+](http://www.python.org/)
  * [pip](https://pip.readthedocs.org/) (installation)
